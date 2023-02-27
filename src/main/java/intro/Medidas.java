@@ -3,6 +3,7 @@ package intro;
 public class Medidas {
     public static void main(String[] args) {
         System.out.println("Meu primeiro codigo em java");
+        System.out.println("Boa noite pessoal");
 
 
         // Calculo da area - piso
